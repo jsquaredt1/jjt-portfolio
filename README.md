@@ -1,2 +1,3 @@
-# jjt-portfolio
-J. Justin Taylor — Digital Relationship Manager Portfolio
+# J. Justin Taylor
+
+Career site: https://jsquaredt1.github.io/jjt-portfolio/
